@@ -1,1 +1,1 @@
-![Screenshots](image/screenshot.png "Website Screenshots")
+![Screenshots](images/screenshot.png "Website Screenshots")
